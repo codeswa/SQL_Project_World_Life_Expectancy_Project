@@ -1,2 +1,4 @@
 # SQL_Project_World_Life_Expectancy_Project
-World Life Expectancy Project
+This is a project to clean and perform exploratory data analysis on the World Life Expectancy dataset.
+SQL skills: JOINS, WINDOW FUNCTIONS, CTEs, Dynamic query, DDL, DQL, DML
+
